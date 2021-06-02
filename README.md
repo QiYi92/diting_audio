@@ -1,4 +1,4 @@
-# diting_video
+# diting_audio
  谛听声纹识别
 
 ---------
